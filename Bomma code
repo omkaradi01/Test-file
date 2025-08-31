@@ -4,3 +4,4 @@ apple = 10
 orange = 20
 mango = apple + orange 
 print(mango)
+print( mango + apple)
