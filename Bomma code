@@ -1,0 +1,6 @@
+# This is a new file
+print("Hello world")
+apple = 10
+orange = 20
+mango = apple + orange 
+print(mango)
